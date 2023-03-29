@@ -1,0 +1,72 @@
+[
+    {
+        "first_column":0.3485539245,
+        "two":-0.1450956292,
+        "three":-0.0123369915,
+        "some_name":9,
+        "five":"red",
+        "what_is_this_even":"good",
+        "seven":"quarrelsome",
+        "eight":"2016-05-26 09:33:42"
+    },
+    {
+        "first_column":-1.4938530178,
+        "two":0.1243694649,
+        "three":1.4611100361,
+        "some_name":4,
+        "five":"red",
+        "what_is_this_even":"bad",
+        "seven":"doctor",
+        "eight":"2016-12-03 18:55:52"
+    },
+    {
+        "first_column":-0.3258910368,
+        "two":null,
+        "three":-0.421912026,
+        "some_name":2,
+        "five":"red",
+        "what_is_this_even":"average",
+        "seven":"large",
+        "eight":"2016-05-15 11:49:26"
+    },
+    {
+        "first_column":-0.5065957166,
+        "two":0.3991147676,
+        "three":-0.265026075,
+        "some_name":5,
+        "five":"green",
+        "what_is_this_even":"average",
+        "seven":"muddled",
+        "eight":"2015-01-30 22:33:29"
+    },
+    {
+        "first_column":null,
+        "two":-0.6913144223,
+        "three":-0.265026075,
+        "some_name":2,
+        "five":"blue",
+        "what_is_this_even":"good",
+        "seven":"coordinated",
+        "eight":"2015-11-20 00:15:35"
+    },
+    {
+        "first_column":0.5271122589,
+        "two":2.5843478477,
+        "three":null,
+        "some_name":2,
+        "five":"blue",
+        "what_is_this_even":"good",
+        "seven":"separate",
+        "eight":"2017-11-17 09:58:54"
+    },
+    {
+        "first_column":-1.5552904133,
+        "two":null,
+        "three":-0.7732649697,
+        "some_name":5,
+        "five":"green",
+        "what_is_this_even":"bad",
+        "seven":"bright",
+        "eight":"2017-05-01 10:32:41"
+    }
+]
