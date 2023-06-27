@@ -7,6 +7,6 @@ Data engineering projects I worked on during my college classes
 - project02 - working with data  
 - project03 - data cleaning - aggregating, grouping, reshaping DataFrames  
 - project04 - spatial data - using GeoPandas and OpenStreetMap to process and plot geographic data
-- project05 - time series - downsampling, upsampling and alignment  
-\
-... more to come
+- project05 - time series - downsampling, upsampling and alignment
+- project06 - window functions and out-of-core processing using SQLite  
+
